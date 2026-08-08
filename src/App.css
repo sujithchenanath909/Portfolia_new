@@ -22,10 +22,22 @@
 }
 
 .site-header__brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-family: var(--font-mono);
   font-weight: 600;
   font-size: 1.05rem;
   color: var(--text);
+}
+
+.site-header__avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--accent);
+  box-shadow: 0 0 0 2px var(--bg);
 }
 
 .site-header__prompt {

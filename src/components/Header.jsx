@@ -23,6 +23,11 @@ const Header = () => {
     <header className={`site-header ${scrolled ? 'is-scrolled' : ''}`}>
       <div className="container site-header__row">
         <a href="#top" className="site-header__brand">
+          <img
+            src="/images/avatar.png"
+            alt="Sujith Chenanath"
+            className="site-header__avatar"
+          />
           <span className="site-header__prompt">~</span>sujith
         </a>
 
