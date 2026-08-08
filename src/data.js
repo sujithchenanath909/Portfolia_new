@@ -1,8 +1,8 @@
 export const profile = {
   name: 'Sujith Chenanath',
-  role: 'Java Full-Stack Developer',
+  role: 'Technical Lead || Solutions Architect',
   tagline: 'Backend systems, UI & test automation',
-  bio: "I'm a Java full-stack developer specialising in backend development, UI, and test automation. I write mostly in Java, and I enjoy continuously learning new skills to solve real business problems.",
+  bio: "Dedicated Technical Lead and Senior Software Engineer with over 12 years of experience architecting, defining, and delivering scalable, high-performance enterprise software solutions. I specialize in leveraging Java Enterprise Edition, Spring Integration, and Agile methodologies to transform complex business challenges into robust, reliable, and innovative digital products. Throughout my career, I have spanned multiple diverse domains—including E-commerce and Core Banking—with the past 4+ years deeply focused on the intricate world of banking payments.As a technical leader, my impact goes beyond code; I bridge the gap between technical vision and execution by: Driving Architecture & Design: Leading the delivery of resilient, distributed software systems that meet strict operational excellence and high-availability standards.Empowering Teams: Fostering highly collaborative, cross-functional environments and mentoring engineering teams to accelerate delivery and elevate code quality.Domain Leadership: Translating complex banking, payment, and transactional workflows into seamless technical requirements that directly drive business value.I am driven by a passion for continuous learning, engineering excellence, and creating a lasting impact through high-quality, impactful software engineering. Let’s connect to discuss scalable architecture, fintech innovations, or team leadership.",
   location: 'India',
   email: 'sujithchenanath@gmail.com',
   phone: '+91 7403382065',
